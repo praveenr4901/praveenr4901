@@ -1,1 +1,1 @@
-- 👋 Hi, I’m praveenr
+- 👋 Hi, I’m Praveen
