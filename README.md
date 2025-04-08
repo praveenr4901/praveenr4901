@@ -1,5 +1,5 @@
 # Hi there 👋, I'm **Praveen R** ✨  
-*DevOps Engineer | Linux Enthusiast | Automation Geek*
+*DevOps Engineer | Linux Enthusiast | "
 
 ---
 
