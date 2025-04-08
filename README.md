@@ -1,17 +1,39 @@
-### Hi there, Im Praveen R ✨
+# Hi there 👋, I'm **Praveen R** ✨  
+*DevOps Engineer | Linux Enthusiast | Automation Geek*
 
-<h4> Here's some stuff about me: </h4>
+---
 
-[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://praveenr.tech/)
-[![](https://img.shields.io/badge/-Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)](https://www.facebook.com/profile.php?id=100015366247595)
-[![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00aced)](https://twitter.com/praveenr4901)
-[![](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=C13584)](https://instagram.com/praveen.r_ktr)
-[![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/praveen-r-47a525194/)
-[![](https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc)](https://t.me/praveen_ktr)
+🔧 **Tech Stack**
+- 🐧 Linux | 🐳 Docker | ☁️ AWS | 🧪 Jenkins | 🧰 Ansible | 🔐 SAML  
+- 💻 Shell Scripting | 🐍 Python | 🧱 CI/CD | 📦 GitHub Actions  
 
+---
 
+📍 Based in **Kottarakkara, Kerala, India**  
+💼 Working @ **Xminds Infotech**, Trivandrum  
+🚀 Always learning, always building!
 
-- From Kottarakara, kerala, India. </br>
-- DevOps & Linux enthusiast.</br>
-- Currently working at Xminds Infotech, Trivandrum.</br>
+---
+
+### 📫 Let's Connect
+
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://praveenr.tech) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100015366247595)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/praveenr4901)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/praveen.r_ktr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-r-47a525194/)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/praveen_ktr)
+
+---
+
+🧩 **Pinned Projects**
+- 🔗 [`webapp`](https://github.com/praveenr4901/webapp) – HTML-based personal project  
+- ⚙️ [`sonarqube`](https://github.com/praveenr4901/sonarqube) – JavaScript code quality setup  
+- 🐳 [`piwigo`](https://github.com/praveenr4901/piwigo) – Docker setup for a gallery app  
+- 💻 [`GIT_TAG`](https://github.com/praveenr4901/GIT_TAG) – Shell script for versioning
+
+---
+
+> 🧠 *"Automation is the art of replacing what you do manually with scripts and systems that never sleep."*
+
   
