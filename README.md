@@ -10,7 +10,7 @@
 ---
 
 📍 Based in **Kottarakkara, Kerala, India**  
-💼 Working @ **Xminds Infotech**, Trivandrum  
+💼 Working @ **Zoondia**, Trivandrum  
 🚀 Always learning, always building!
 
 ---
